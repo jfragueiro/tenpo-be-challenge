@@ -1,0 +1,4 @@
+com\tenpo\api\OperationControllerTests.class
+com\tenpo\service\OperationServiceTest.class
+com\tenpo\api\UserControllerTests.class
+com\tenpo\ChallengeApplicationTests.class
